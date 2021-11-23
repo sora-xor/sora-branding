@@ -1,4 +1,4 @@
 # XSTUSD
 ### Many Worlds. One Economy. SORA.
-![Sample](https://github.com/sora-xor/sora-branding/blob/master/SORA/XSTUSD/xstusd-waifu.png?raw=true)
-![Sample](xstusd-cover.jpg)
+![Sample](media/xstusd-waifu.png)
+![Sample](media/xstusd-cover.jpg)
