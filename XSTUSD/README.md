@@ -1,2 +1,1 @@
-# Moved to:
-https://github.com/sora-xor/sora-branding/tree/master/SORA/XSTUSD
+# Moved to: [/SORA/XSTUSD](/SORA/XSTUSD/)

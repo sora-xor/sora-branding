@@ -1,2 +1,1 @@
-# Moved to:
-https://github.com/sora-xor/sora-branding/tree/master/SORA
+# Moved to: [/SORA/SORA-logo](/SORA/SORA-logo/)
