@@ -6,6 +6,11 @@
 | ![VAL](./SORA/svg/VAL.svg)        | VAL     | [svg](./SORA/svg/VAL.svg) [png](./SORA/png/VAL.png)       |
 | ![PSWAP](./SORA/svg/PSWAP.svg)    | PSWAP   | [svg](./SORA/svg/PSWAP.svg) [png](./SORA/png/PSWAP.png)   |
 | ![TBCD](./SORA/svg/TBCD.svg)      | TBCD    | [svg](./SORA/svg/TBCD.svg) [png](./SORA/png/TBCD.png)     |
+| ![DEO](./SORA/svg/DEO.svg)        | DEO     | [svg](./SORA/svg/DEO.svg) [png](./SORA/png/DEO.png)       |
+| ![CERES](./SORA/svg/CERES.svg)    | CERES   | [svg](./SORA/svg/CERES.svg) [png](./SORA/png/CERES.png)   |
+| ![HMX](./SORA/svg/HMX.svg)        | HMX     | [svg](./SORA/svg/HMX.svg) [png](./SORA/png/HMX.png)       |
+| ![NOIR](./SORA/svg/NOIR.svg)      | NOIR    | [svg](./SORA/svg/NOIR.svg) [png](./SORA/png/NOIR.png)     |
+| ![APOLLO](./SORA/svg/APOLLO.svg)  | APOLLO  | [svg](./SORA/svg/APOLLO.svg) [png](./SORA/png/APOLLO.png) |
 | ![XST](./XST/svg/XST.svg)         | XST     | [svg](./XST/svg/XST.svg) [png](./XST/png/XST.png)         |
 | ![XSTUSD](./XST/svg/XSTUSD.svg)   | XSTUSD  | [svg](./XST/svg/XSTUSD.svg) [png](./XST/png/XSTUSD.png)   |
 | ![XSTADA](./XST/svg/XSTADA.svg)   | XSTADA  | [svg](./XST/svg/XSTADA.svg) [png](./XST/png/XSTADA.png)   |
