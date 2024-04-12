@@ -11,6 +11,10 @@
 | ![HMX](./SORA/svg/HMX.svg)        | HMX     | [svg](./SORA/svg/HMX.svg) [png](./SORA/png/HMX.png)       |
 | ![NOIR](./SORA/svg/NOIR.svg)      | NOIR    | [svg](./SORA/svg/NOIR.svg) [png](./SORA/png/NOIR.png)     |
 | ![APOLLO](./SORA/svg/APOLLO.svg)  | APOLLO  | [svg](./SORA/svg/APOLLO.svg) [png](./SORA/png/APOLLO.png) |
+| ![KEN](./KEN/svg/KEN.svg)         | KEN     | [svg](./KEN/svg/KEN.svg) [png](./KEN/png/KEN.png)         |
+| ![KGOLD](./KEN/svg/KGOLD.svg)     | KGOLD   | [svg](./KEN/svg/KGOLD.svg) [png](./KEN/png/KGOLD.png)     |
+| ![KUSD](./KEN/svg/KUSD.svg)       | KUSD    | [svg](./KEN/svg/KUSD.svg) [png](./KEN/png/KUSD.png)       |
+| ![KEURO](./KEN/svg/KEURO.svg)     | KEURO   | [svg](./KEN/svg/KEURO.svg) [png](./KEN/png/KEURO.png)     |
 | ![XST](./XST/svg/XST.svg)         | XST     | [svg](./XST/svg/XST.svg) [png](./XST/png/XST.png)         |
 | ![XSTUSD](./XST/svg/XSTUSD.svg)   | XSTUSD  | [svg](./XST/svg/XSTUSD.svg) [png](./XST/png/XSTUSD.png)   |
 | ![XSTADA](./XST/svg/XSTADA.svg)   | XSTADA  | [svg](./XST/svg/XSTADA.svg) [png](./XST/png/XSTADA.png)   |
