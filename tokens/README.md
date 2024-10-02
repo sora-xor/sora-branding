@@ -3,6 +3,7 @@
 | Token                             | Name    | Download                                                  |
 | --------------------------------- | ------- | --------------------------------------------------------- |
 | ![XOR](./SORA/svg/XOR.svg)        | XOR     | [svg](./SORA/svg/XOR.svg) [png](./SORA/png/XOR.png)       |
+| ![vXOR](./SORA/svg/vXOR.svg)        | vXOR     | [svg](./SORA/svg/vXOR.svg) [png](./SORA/png/vXOR.png)       |
 | ![VAL](./SORA/svg/VAL.svg)        | VAL     | [svg](./SORA/svg/VAL.svg) [png](./SORA/png/VAL.png)       |
 | ![PSWAP](./SORA/svg/PSWAP.svg)    | PSWAP   | [svg](./SORA/svg/PSWAP.svg) [png](./SORA/png/PSWAP.png)   |
 | ![TBCD](./SORA/svg/TBCD.svg)      | TBCD    | [svg](./SORA/svg/TBCD.svg) [png](./SORA/png/TBCD.png)     |
