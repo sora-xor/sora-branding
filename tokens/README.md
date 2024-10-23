@@ -13,6 +13,7 @@
 | ![NOIR](./SORA/svg/NOIR.svg)      | NOIR    | [svg](./SORA/svg/NOIR.svg) [png](./SORA/png/NOIR.png)     |
 | ![APOLLO](./SORA/svg/APOLLO.svg)  | APOLLO  | [svg](./SORA/svg/APOLLO.svg) [png](./SORA/png/APOLLO.png) |
 | ![SB](./SORA/svg/SB.svg)   | SB  | [svg](./SORA/svg/SB.svg) [png](./SORA/png/SB.png)   |
+| ![PUSSY](./SORA/svg/PUSSY.svg)   | PUSSY  | [svg](./SORA/svg/PUSSY.svg) [png](./SORA/png/PUSSY.png)   |
 | ![KEN](./KEN/svg/KEN.svg)         | KEN     | [svg](./KEN/svg/KEN.svg) [png](./KEN/png/KEN.png)         |
 | ![KGOLD](./KEN/svg/KGOLD.svg)     | KGOLD   | [svg](./KEN/svg/KGOLD.svg) [png](./KEN/png/KGOLD.png)     |
 | ![KUSD](./KEN/svg/KUSD.svg)       | KUSD    | [svg](./KEN/svg/KUSD.svg) [png](./KEN/png/KUSD.png)       |
